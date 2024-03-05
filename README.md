@@ -12,8 +12,8 @@ We would like to team up with friends from UTAD. We have got together three stud
   + Chinese name : Ang Gao
   + Position : PM (Waiting for a team leader in UTAD to lead the project together)
   + About me : Experiences in AI Algorithms used in Knowledging Tracing;<br>
-               Strong interest in coding;<br>
-               Easygoing and determined;
+               &nbsp;&nbsp;Strong interest in coding;<br>
+               &nbsp;&nbsp;Easygoing and determined;
     
 + __Kerry__
   + Chinese name : Minye Lei

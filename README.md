@@ -13,7 +13,7 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
   + Chinese name : Ang Gao
   + Position : PM (Waiting for a team leader in UTAD to lead the project together)/Programmer
   + About me : 
-    + research interest in Knowledging Tracing
+    + research interest including Knowledge Tracing
     + strong passion for coding
     + easygoing and determined
     

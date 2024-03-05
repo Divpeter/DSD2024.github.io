@@ -6,7 +6,7 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 03/05/2024 : Team Building
 
 ## Notice
-*__We would like to team up with friends from UTAD.__* We have got together three students in JLU and our information is shown below. If you are interested in our team, please contact us by wechat or email gaoang2121@mails.jlu.edu.cn. We are delighted to collaborate with you all to complete the project!
+*__We would like to team up with friends from UTAD.__* We have got together three students in JLU and our information is shown below. *__We still need three friends from UTAD, including one team leader and two team members.__* If you are interested in our team, please contact us by wechat or email gaoang2121@mails.jlu.edu.cn. We are delighted to collaborate with you all to complete the project!
 
 ## Team Members
 + __Peter__

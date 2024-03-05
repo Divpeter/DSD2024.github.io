@@ -27,6 +27,9 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 
 + __Bright__
   + Chinese name : Han Chen
-  + Position :
+  + Position : Programmer
   + About me :
+    + participated in ICPC competitions and achieved commendable results.
+    + possess a certain level of understanding in the field of weak supervision.
+    + focused and dedicated, with a passion for novelty.
   

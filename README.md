@@ -11,16 +11,19 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 ## Team Members
 + __Peter__
   + Chinese name : Ang Gao
-  + Position : PM (Waiting for a team leader in UTAD to lead the project together)
+  + Position : PM (Waiting for a team leader in UTAD to lead the project together)/Programmer
   + About me : 
-    + Experiences in AI Algorithms used in Knowledging Tracing
-    + Strong interest in coding
-    + Easygoing and determined;
+    + research interest in Knowledging Tracing
+    + strong passion for coding
+    + easygoing and determined
     
 + __Kerry__
   + Chinese name : Minye Lei
-  + Position :
+  + Position : Testor
   + About me :
+    + research interest including recommendation system
+    + with a positive attitude towards teamwork and a willingness to listen
+    + interested in Board Game
 
 + __Bright__
   + Chinese name : Han Chen

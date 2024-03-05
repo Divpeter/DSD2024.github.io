@@ -19,7 +19,7 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
     
 + __Kerry__
   + Chinese name : Minye Lei
-  + Position : Testor
+  + Position : Tester
   + About me :
     + research interest including recommendation system
     + with a positive attitude towards teamwork and a willingness to listen

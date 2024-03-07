@@ -1,20 +1,21 @@
-# DSD 
+# DSD Group : Brave Ones
 ## About this project
 This is the project for DSD, 2024 Spring. The task is to develop an Intelligent Treasure Exploration System involving users from multiple platforms. We will keep providing updates as the project progresses.
 
 ## Timeline
-03/05/2024 : Team Building
-
-## News
-Since the total number of teams is 5, we have contacted Nuno and joined his team. As a result, the teamleader for our team is Nuno and we are members of *__Brave ones__* now. 
+03/07/2024 : Team Building Finished <br>
+03/05/2024 : Team Building  
 
 ## Notice
-*__We would like to team up with friends from UTAD.__* We have got together three students in JLU and our information is shown below. *__We still need three friends from UTAD, including one team leader and two team members.__* We are delighted to collaborate with you all to complete the project!
+We have finished team-building and gathered all six members of our group! Our information is shown below. Just as our team name suggests, we are Brave Ones and won't fear any challenges in the project!
 
 ## Team Members
++ __Nuno Valente__
+  + Position : PM (the team leader)
+    
 + __Peter__
   + Chinese name : Ang Gao
-  + Position : PM (Waiting for a team leader in UTAD to lead the project together)/Programmer
+  + Position : Assistant PM /Programmer
   + About me : 
     + research interest including Knowledge Tracing
     + strong passion for coding
@@ -35,4 +36,12 @@ Since the total number of teams is 5, we have contacted Nuno and joined his team
     + participated in ICPC competitions and achieved commendable results.
     + possess a certain level of understanding in the field of weak supervision.
     + focused and dedicated, with a passion for novelty.
+   
++ __Jerry Zheng__
+  + Chinese name : Chengyu Zheng
+  + Position : Pending
+ 
++ __Jerry Gao__
+  + Chinese name : Jun Gao
+  + Position : Pending
   

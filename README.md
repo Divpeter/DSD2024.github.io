@@ -6,7 +6,7 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 03/05/2024 : Team Building
 
 ## News
-Since the total number of teams is 5, we have contacted Nuno and joined his team. As a result, the teamleader for our team is Nuno and we are part of *__Brave ones__* now. 
+Since the total number of teams is 5, we have contacted Nuno and joined his team. As a result, the teamleader for our team is Nuno and we are members of *__Brave ones__* now. 
 
 ## Notice
 *__We would like to team up with friends from UTAD.__* We have got together three students in JLU and our information is shown below. *__We still need three friends from UTAD, including one team leader and two team members.__* We are delighted to collaborate with you all to complete the project!

@@ -39,9 +39,9 @@ We have finished team-building and gathered all six members of our group! Our in
    
 + __Jerry Zheng__
   + Chinese name : Chengyu Zheng
-  + Position : Pending
+  + Position : Liaison/Requirement Analyst
  
 + __Jerry Gao__
   + Chinese name : Jun Gao
-  + Position : Pending
+  + Position : System Architect
   

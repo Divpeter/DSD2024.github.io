@@ -3,7 +3,7 @@
 This is the project for DSD, 2024 Spring. The task is to develop an Intelligent Treasure Exploration System involving users from multiple platforms. We will keep providing updates as the project progresses.
 
 ## Timeline
-03/08/2024 : Role Selection
+03/08/2024 : Role Selection <br>
 03/07/2024 : Team Building Finished <br>
 03/05/2024 : Team Building  
 

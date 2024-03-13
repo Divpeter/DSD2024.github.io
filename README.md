@@ -4,9 +4,7 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 
 ## Timeline
 03/11/2024 : Requirements Analysis <br>
-03/09/2024 : Role Selection Finished <br>
 03/08/2024 : Role Selection <br>
-03/07/2024 : Team Building Finished <br>
 03/05/2024 : Team Building  
 
 ## Notice

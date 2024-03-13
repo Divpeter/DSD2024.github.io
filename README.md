@@ -11,7 +11,7 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 We have finished Role Selection and our roles are shown below!  In next stage, we start the process of Requirements Analysis in the project.
 
 ## Team Roles
-|          |     PM    |    Assitant PM    |    Req Analyst    |    Programmer    |    System Architect    |    Tester    |    Liason    |  
+|          |     PM    |    Assitant PM    |    Req Analyst    |    Coder    |    Sys Architect    |    Tester    |    Liason    |  
 | :---------: | :---------: | :------------------: |  :-----------------: | :-----------------: |:-----------------------:|  :------------:  | :-------------:  |
 |Nuno Valente| &#x2611;  |  |   |   |  &#x2611;  |
 |Peter|                |  <center>&#x2611;</center>  |  |  &#x2611;  |

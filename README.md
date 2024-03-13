@@ -4,22 +4,23 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 
 ## Timeline
 03/11/2024 : Requirements Analysis <br>
+03/09/2024 : Role Selection Finished <br>
 03/08/2024 : Role Selection <br>
 03/07/2024 : Team Building Finished <br>
 03/05/2024 : Team Building  
 
 ## Notice
-We have finished team-building and gathered all six members of our group! Our information is shown below. Just as our team name suggests, we are Brave Ones and won't fear any challenges in the project!
+We have finished Role Selection and our roles are shown below!  In next stage, we start the process of Requirements Analysis in the project.
 
 ## Team Roles
 |          |     PM    |    Assitant PM    |    Req Analyst    |    Programmer    |    System Architect    |    Tester    |    Liason    |  
 | :---------: | :---------: | :------------------: |  :-----------------: | :-----------------: |:-----------------------:|  :------------:  | :-------------:  |
-|Nuno Valente| &#x2611;  |  |   | 
+|Nuno Valente| &#x2611;  |  |   |   |  &#x2611;  |
 |Peter|                |  <center>&#x2611;</center>  |  |  &#x2611;  |
 |Kerry|  |  |  &#x2611;  |  |  |  &#x2611;  |
-|Bright|  |  |  |  &#x2611;  |  |  
+|Bright|  |  |  |  &#x2611;  |  |  |  &#x2611;  |  
 |Jerry Zheng|  |  |  &#x2611;  |  |  |  &#x2611;  |
-|Jerry Gao|  |  |  |  |  &#x2611;  |
+|Jerry Gao|  |  |  |  |  &#x2611;  |  |  &#x2611;  |
 
 ## Team Members
 + __Nuno Valente__
@@ -43,7 +44,7 @@ We have finished team-building and gathered all six members of our group! Our in
 
 + __Bright__
   + Chinese name : Han Chen
-  + Position : Programmer
+  + Position : Programmer/Liason
   + About me :
     + participated in ICPC competitions and achieved commendable results.
     + possess a certain level of understanding in the field of weak supervision.
@@ -55,5 +56,5 @@ We have finished team-building and gathered all six members of our group! Our in
  
 + __Jerry Gao__
   + Chinese name : Jun Gao
-  + Position : System Architect
+  + Position : System Architect/Liason
   

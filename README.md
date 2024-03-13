@@ -11,6 +11,16 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 ## Notice
 We have finished team-building and gathered all six members of our group! Our information is shown below. Just as our team name suggests, we are Brave Ones and won't fear any challenges in the project!
 
+## Team Roles
+|          |     PM    |    Assitant PM    |    Req Analyst    |    Programmer    |    System Architect    |    Tester    |    Liason    |  
+| :---------: | :---------: | :------------------: |  :-----------------: | :-----------------: |:-----------------------:|  :------------:  | :-------------:  |
+|Nuno Valente| &#x2611;  |  |   | 
+|Peter|                |  <center>&#x2611;</center>  |  |  &#x2611;  |
+|Kerry|  |  |  &#x2611;  |  |  |  &#x2611;  |
+|Bright|  |  |  |  &#x2611;  |  |  
+|Jerry Zheng|  |  |  &#x2611;  |  |  |  &#x2611;  |
+|Jerry Gao|  |  |  |  |  &#x2611;  |
+
 ## Team Members
 + __Nuno Valente__
   + Position : PM (the team leader)
@@ -25,7 +35,7 @@ We have finished team-building and gathered all six members of our group! Our in
     
 + __Kerry__
   + Chinese name : Minye Lei
-  + Position : Tester
+  + Position : Tester/Requirements Analyst
   + About me :
     + research interest including recommendation system
     + with a positive attitude towards teamwork and a willingness to listen
@@ -41,7 +51,7 @@ We have finished team-building and gathered all six members of our group! Our in
    
 + __Jerry Zheng__
   + Chinese name : Chengyu Zheng
-  + Position : Liaison/Requirement Analyst
+  + Position : Tester/Requirement Analyst
  
 + __Jerry Gao__
   + Chinese name : Jun Gao

@@ -3,13 +3,14 @@
 This is the project for DSD, 2024 Spring. The task is to develop an Intelligent Treasure Exploration System involving users from multiple platforms. We will keep providing updates as the project progresses.
 
 ## Timeline
-03/11/2024 : Requirements Analysis <br>
+03/11/2024 : Requirements Analysis &#x2611; <br>
 03/08/2024 : Role Selection  &#x2611; <br>
 03/05/2024 : Team Building  &#x2611;
 
 ## Notice
-We have finished Role Selection and our roles are shown below!  In next stage, we start the process of Requirements Analysis in the project. Click this link to see our process of Requirement Analysis.<br>
-https://docs.google.com/document/d/1Ne3DcNKM5rR4DACcW0JFtLY9dWwgH2AslHItaRscWj4/edit?usp=sharing
+We have completed the first version of our requirements analysis. Click this link to see our Requirement Analysis or you can just check the document in this repository.<br>
+https://docs.google.com/document/d/1Ne3DcNKM5rR4DACcW0JFtLY9dWwgH2AslHItaRscWj4/edit?usp=sharing<br>
+In this next, we will 
 
 ## Team Roles
 |          |     PM    |    Assitant PM    |    Req Analyst    |    Coder    |    Sys Architect    |    Tester    |    Liason    |  

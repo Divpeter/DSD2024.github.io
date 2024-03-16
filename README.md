@@ -10,7 +10,8 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 ## Notice
 We have completed the first version of our requirements analysis. Click this link to see our Requirement Analysis or you can just check the document in this repository.<br>
 https://docs.google.com/document/d/1Ne3DcNKM5rR4DACcW0JFtLY9dWwgH2AslHItaRscWj4/edit?usp=sharing<br>
-In this next, we will 
+In this next stage, we will start learning the online course for "WeChat Mini Porgram Development" in Udacity.<br>
+https://www.udacity.com/course/wechat-mini-programs--ud667
 
 ## Team Roles
 |          |     PM    |    Assitant PM    |    Req Analyst    |    Coder    |    Sys Architect    |    Tester    |    Liason    |  

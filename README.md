@@ -1,20 +1,20 @@
 # DSD Group : Brave Ones
-## About this project
+## ℹ️About this project
 This is the project for DSD, 2024 Spring. The task is to develop an Intelligent Treasure Exploration System involving users from multiple platforms. We will keep providing updates as the project progresses.
 
-## Timeline
+## 📆Timeline
 03/20/2024 : System Design<br>
 03/11/2024 : Requirements Analysis &#x2611; <br>
 03/08/2024 : Role Selection  &#x2611; <br>
 03/05/2024 : Team Building  &#x2611;
 
-## Notice
+## 🔔Notice
 __03/20/2024__ : We will start our process of system design in the next stage.<br>
 __03/18/2024__ : We have got the first version of requirements analysis which consists of all other groups' contents.<br>
 __03/14/2024__ : We have completed the first version of our requirements analysis. Click this link to see our Requirement Analysis or you can just check the document in this repository.<br>
 https://docs.google.com/document/d/1Ne3DcNKM5rR4DACcW0JFtLY9dWwgH2AslHItaRscWj4/edit?usp=sharing<br>
 
-## Team Roles
+## 🏡Team Roles
 |          |     PM    |    Assitant PM    |    Req Analyst    |    Coder    |    Sys Architect    |    Tester    |    Liason    |  
 | :---------: | :---------: | :------------------: |  :-----------------: | :-----------------: |:-----------------------:|  :------------:  | :-------------:  |
 |Nuno Valente| &#x2611;  |  |   |   |  &#x2611;  |
@@ -24,7 +24,7 @@ https://docs.google.com/document/d/1Ne3DcNKM5rR4DACcW0JFtLY9dWwgH2AslHItaRscWj4/
 |Jerry Zheng|  |  |  &#x2611;  |  |  |  &#x2611;  |
 |Jerry Gao|  |  |  |  |  &#x2611;  |  |  &#x2611;  |
 
-## Team Members
+## 🏠Team Members
 + __Nuno Valente__
   + Position : PM (the team leader)
     

@@ -1,7 +1,7 @@
 # DSD Group : Brave Ones
 ## 📝About this project
 This is the project for DSD, 2024 Spring. The task is to develop an Intelligent Treasure Exploration System involving users from multiple platforms. We will keep providing updates as the project progresses.<br>
-Our group is responsible for the development of Wechat application. We will focus on the customers using Wechat and our group members will work together to do this project well.
+Our group is responsible for the development of __Wechat application__. We will focus on the customers using Wechat and our group members will work together to do this project well.
 
 ## 📆Timeline
 03/20/2024 : System Design<br>

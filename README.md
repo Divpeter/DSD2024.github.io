@@ -1,6 +1,7 @@
 # DSD Group : Brave Ones
-## ℹ️About this project
-This is the project for DSD, 2024 Spring. The task is to develop an Intelligent Treasure Exploration System involving users from multiple platforms. We will keep providing updates as the project progresses.
+## 📝About this project
+This is the project for DSD, 2024 Spring. The task is to develop an Intelligent Treasure Exploration System involving users from multiple platforms. We will keep providing updates as the project progresses.<br>
+Our group is responsible for the development of Wechat application. We will focus on the customers using Wechat and our group members will work together to do this project well.
 
 ## 📆Timeline
 03/20/2024 : System Design<br>
@@ -11,8 +12,8 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 ## 🔔Notice
 __03/20/2024__ : We will start our process of system design in the next stage.<br>
 __03/18/2024__ : We have got the first version of requirements analysis which consists of all other groups' contents.<br>
-__03/14/2024__ : We have completed the first version of our requirements analysis. Click this link to see our Requirement Analysis or you can just check the document in this repository.<br>
-https://docs.google.com/document/d/1Ne3DcNKM5rR4DACcW0JFtLY9dWwgH2AslHItaRscWj4/edit?usp=sharing<br>
+__03/14/2024__ : We have completed the first version of our requirements analysis. Click [our requirements analysis](https://docs.google.com/document/d/1Ne3DcNKM5rR4DACcW0JFtLY9dWwgH2AslHItaRscWj4/edit?usp=sharing) to see our group work or you can just check the document in this repository.<br>
+<br>
 
 ## 🏡Team Roles
 |          |     PM    |    Assitant PM    |    Req Analyst    |    Coder    |    Sys Architect    |    Tester    |    Liason    |  
@@ -59,4 +60,10 @@ https://docs.google.com/document/d/1Ne3DcNKM5rR4DACcW0JFtLY9dWwgH2AslHItaRscWj4/
 + __Jerry Gao__
   + Chinese name : Jun Gao
   + Position : System Architect/Liason
-  
+## 📰Group Links
+|    Group Name      |     Responsibility    |    Link    | 
+| :---------: | :---------: | :------------------: | 
+|Dream,Share,Discover| Web application  | [DSD](https://github.com/zkc3783/dream-share-discovery) | 
+|Rock House|     Android application           |  [Rock House](https://github.com/zhouyuheng2003/DSD2024-rock-house)  | 
+|Better Call Li|  AI algorithm |  [Better Call Li](https://github.com/baconjlu/better-call-Li)  | 
+|Backrooms| Database | [Backrooms](https://github.com/Irodixy/Backrooms_dsd2024)  | 

@@ -1,21 +1,24 @@
 # DSD Group : Brave Ones
-## 📝About this project
+## 📝 About this project
 This is the project for DSD, 2024 Spring. The task is to develop an Intelligent Treasure Exploration System involving users from multiple platforms. We will keep providing updates as the project progresses.<br>
 Our group is responsible for the development of __Wechat application__. We will focus on the customers using Wechat and our group members will work together to do this project well.
 
-## 📆Timeline
+## 📆 Timeline
 03/20/2024 : System Design<br>
 03/11/2024 : Requirements Analysis &#x2611; <br>
 03/08/2024 : Role Selection  &#x2611; <br>
 03/05/2024 : Team Building  &#x2611;
 
-## 🔔Notice
+## 🔔 Notice
+__03/26/2024__ : We have added a gantt chart for our group to show our process directly. You can see the comparasion between our process and the scheduled process in the gantt chart. <br>
 __03/20/2024__ : We will start our process of system design in the next stage.<br>
 __03/18/2024__ : We have got the first version of requirements analysis which consists of all other groups' contents.<br>
 __03/14/2024__ : We have completed the first version of our requirements analysis. Click [our requirements analysis](https://docs.google.com/document/d/1Ne3DcNKM5rR4DACcW0JFtLY9dWwgH2AslHItaRscWj4/edit?usp=sharing) to see our group work or you can just check the document in this repository.<br>
 <br>
 
-## 📰Group Links
+## 🖼️ Gantt Chart
+![Our porcess](
+## 📰 Group Links
 If you are interested in the process of other groups in this project, you can click these links to see their website. 
 |    Group Name      |     Responsibility    |    Link    | 
 | :---------: | :---------: | :------------------: | 
@@ -24,7 +27,7 @@ If you are interested in the process of other groups in this project, you can cl
 |Better Call Li|  AI algorithm |  [Better Call Li](https://github.com/baconjlu/better-call-Li)  | 
 |Backrooms| Database | [Backrooms](https://github.com/Irodixy/Backrooms_dsd2024)  | 
 
-## 🏡Team Roles
+## 🏡 Team Roles
 |          |     PM    |    Assitant PM    |    Req Analyst    |    Coder    |    Sys Architect    |    Tester    |    Liason    |  
 | :---------: | :---------: | :------------------: |  :-----------------: | :-----------------: |:-----------------------:|  :------------:  | :-------------:  |
 |Nuno Valente| &#x2611;  |  |   |   |  &#x2611;  |
@@ -34,7 +37,7 @@ If you are interested in the process of other groups in this project, you can cl
 |Jerry Zheng|  |  |  &#x2611;  |  |  |  &#x2611;  |
 |Jerry Gao|  |  |  |  |  &#x2611;  |  |  &#x2611;  |
 
-## 🏠Team Members
+## 🏠 Team Members
 + __Nuno Valente__
   + Position : PM (the team leader)
     

@@ -10,8 +10,9 @@ Our group is responsible for the development of __Wechat application__. We will 
 03/05/2024 : Team Building  &#x2611;
 
 ## 🔔 Notice
-__03/26/2024__ : We have got a system design template finished by Rock House. Click [Teamplate](https://github.com/Divpeter/DSD2024.github.io/blob/c8069b36b3fdfcac83a40e6e6b9560121a994220/System%20Design/Template.png) to see the details.<br>
-__03/26/2024__ : We have added a gantt chart for our group to show our process directly. You can see the comparasion between our process and the scheduled process in the gantt chart. <br>
+__03/26/2024__ : We have got a system design template finished by Rock House. Click [Teamplate](https://github.com/Divpeter/DSD2024.github.io/blob/c8069b36b3fdfcac83a40e6e6b9560121a994220/System%20Design/Template.png) to see the details. We will try to make some updates based on the template<br>
+__03/26/2024__ : We have finished the first simple version of our [Class Diagram]() and [Component Diagram]()<br>. 
+__03/25/2024__ : We have added a gantt chart for our group to show our process directly. You can see the comparasion between our process and the scheduled process in the gantt chart. <br>
 __03/20/2024__ : We will start our process of system design in the next stage.<br>
 __03/18/2024__ : We have got the first version of requirements analysis which consists of all other groups' contents.<br>
 __03/14/2024__ : We have completed the first version of our requirements analysis. Click [our requirements analysis](https://docs.google.com/document/d/1Ne3DcNKM5rR4DACcW0JFtLY9dWwgH2AslHItaRscWj4/edit?usp=sharing) to see our group work or you can just check the document in this repository.<br>

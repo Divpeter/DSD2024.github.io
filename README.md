@@ -10,7 +10,7 @@ Our group is responsible for the development of __Wechat application__. We will 
 03/05/2024 : Team Building  &#x2611;
 
 ## 🔔 Notice
-__03/26/2024__ : We have got a system design template finished by Rock House. Click [template](System Design/Template.png)<br>
+__03/26/2024__ : We have got a system design template finished by Rock House. Click [Teamplate](https://github.com/Divpeter/DSD2024.github.io/blob/c8069b36b3fdfcac83a40e6e6b9560121a994220/System%20Design/Template.png) to see the details.<br>
 __03/26/2024__ : We have added a gantt chart for our group to show our process directly. You can see the comparasion between our process and the scheduled process in the gantt chart. <br>
 __03/20/2024__ : We will start our process of system design in the next stage.<br>
 __03/18/2024__ : We have got the first version of requirements analysis which consists of all other groups' contents.<br>

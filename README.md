@@ -9,7 +9,8 @@ Our group is responsible for the development of __Wechat application__. We will 
 03/08/2024 : Role Selection  &#x2611; <br>
 03/05/2024 : Team Building  &#x2611;
 
-## 🔔 Notice
+## 🔔 Notice  
+__03/28/2024__ : Since our group shares similar structure with Android group, our system architecter will communicate with them. We will pay attention to the requirements analysis and make some updates based on it.<br>
 __03/26/2024__ : We have got a system design template finished by Rock House. Click [Template](https://github.com/Divpeter/DSD2024.github.io/blob/c8069b36b3fdfcac83a40e6e6b9560121a994220/System%20Design/Template.png) to see the details. We will try to make some updates based on the template.<br>
 __03/26/2024__ : We have finished the first simple version of our [Class Diagram](https://github.com/Divpeter/DSD2024.github.io/blob/3b9992e4b4ba3dfcd1a3c89a90e23073f7243a18/System%20Design/Class%20Diagram.png) and [Component Diagram](https://github.com/Divpeter/DSD2024.github.io/blob/3b9992e4b4ba3dfcd1a3c89a90e23073f7243a18/System%20Design/Component%20Diagram.png)<br> 
 __03/25/2024__ : We have added a gantt chart for our group to show our process directly. You can see the comparasion between our process and the scheduled process in the gantt chart. <br>

@@ -10,6 +10,7 @@ Our group is responsible for the development of __Wechat application__. We will 
 03/05/2024 : Team Building  &#x2611;
 
 ## 🔔 Notice  
+__04/02/2024__ : We have provided a simple guideline for gantt chart drawing.<br>
 __04/01/2024__ : The gantt chart has been updated.<br>
 __03/28/2024__ : Since our group shares similar structure with Android group, our system architecter will communicate with them. We will pay attention to the requirements analysis and make some updates based on it.<br>
 __03/26/2024__ : We have got a system design template finished by Rock House. Click [Template](https://github.com/Divpeter/DSD2024.github.io/blob/c8069b36b3fdfcac83a40e6e6b9560121a994220/System%20Design/Template.png) to see the details. We will try to make some updates based on the template.<br>

@@ -10,6 +10,7 @@ Our group is responsible for the development of __Wechat application__. We will 
 03/05/2024 : Team Building  &#x2611;
 
 ## 🔔 Notice  
+__04/06/2024__ : We have finished the registration for the Wechat APP developement platform.<br>
 __04/02/2024__ : We have provided a simple guideline for gantt chart drawing.<br>
 __04/01/2024__ : The gantt chart has been updated.<br>
 __03/28/2024__ : Since our group shares similar structure with Android group, our system architecter will communicate with them. We will pay attention to the requirements analysis and make some updates based on it.<br>

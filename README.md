@@ -4,12 +4,14 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 Our group is responsible for the development of __Wechat application__. We will focus on the customers using Wechat and our group members will work together to do this project well.
 
 ## 📆 Timeline
+04/07/2024 : Coding<br>
 03/20/2024 : System Design<br>
 03/11/2024 : Requirements Analysis &#x2611; <br>
 03/08/2024 : Role Selection  &#x2611; <br>
 03/05/2024 : Team Building  &#x2611;
 
 ## 🔔 Notice  
+__04/08/2024__ : We will start our process of coding in the next stage.<br>
 __04/06/2024__ : We have finished the registration for the Wechat mini program developement platform.<br>
 __04/02/2024__ : We have provided a simple guideline for gantt chart drawing.<br>
 __04/01/2024__ : The gantt chart has been updated.<br>

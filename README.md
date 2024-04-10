@@ -25,8 +25,9 @@ __03/14/2024__ : We have completed the first version of our requirements analysi
 <br>
 
 ## 🖼️ Gantt Chart
-Here is the Gantt Chart for our group porcess. The red stripe represents our process and the blue stripe represents the scheduled process in the project. You can also check [our process](https://github.com/Divpeter/DSD2024.github.io/blob/04dbc179a655a466eade1982bc85c3079874778d/Gantt%20Chart.png) in this repository.
-![Our porcess](https://github.com/Divpeter/DSD2024.github.io/blob/04dbc179a655a466eade1982bc85c3079874778d/Gantt%20Chart.png)
+Here is the Gantt Chart for our group porcess. The red stripe represents our process and the blue stripe represents the scheduled process in the project. You can also check [our process](https://github.com/Divpeter/DSD2024.github.io/blob/6dff8510ab1609cd5131e9f24e62db7152cf00f8/Gantt%20Chart1.png) in this repository.
+![Our porcess](https://github.com/Divpeter/DSD2024.github.io/blob/6dff8510ab1609cd5131e9f24e62db7152cf00f8/Gantt%20Chart1.png)
+
 
 ## 📰 Group Links
 If you are interested in the process of other groups in this project, you can click these links to see their website. 

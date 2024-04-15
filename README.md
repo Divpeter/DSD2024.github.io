@@ -18,8 +18,8 @@ __04/15/2024__ : We have finished the first version of our user interfaces, whic
 + Item Page<br>
 + Feedback Options<br>
 + Search Bar<br>
-+ Map Function<br>
-Here are what we need to add to our program:
++ Map Function<br><br>
+To satisfy the requirements of our program, we still need to add the following interfaces:
 + Interfaces with database<br>
 
 __04/08/2024__ : We will start our process of coding in the next stage.<br>

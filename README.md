@@ -20,7 +20,7 @@ __04/15/2024__ : We have finished the first version of our user interfaces, whic
 + Search Bar<br>
 + Map Function<br><br>
 To satisfy the requirements of our program, we still need to add the following interfaces:
-+ Interfaces with database<br>
++ Interfaces with database to realize data interaction with other groups<br>
 
 __04/08/2024__ : We will start our process of coding in the next stage.<br>
 __04/06/2024__ : We have finished the registration for the Wechat mini program developement platform.<br>

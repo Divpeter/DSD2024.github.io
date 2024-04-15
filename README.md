@@ -5,12 +5,19 @@ Our group is responsible for the development of __Wechat application__. We will 
 
 ## 📆 Timeline
 04/07/2024 : Coding<br>
-03/20/2024 : System Design<br>
+03/20/2024 : System Design  &#x2611;<br>
 03/11/2024 : Requirements Analysis &#x2611; <br>
 03/08/2024 : Role Selection  &#x2611; <br>
 03/05/2024 : Team Building  &#x2611;
 
 ## 🔔 Notice  
+__04/15/2024__ : We have finished the first version of our user interfaces, which include the following pages:<br>
++ Recommendation Page<br>
++ Stores Page<br>
++ Login Page<br>
++ Item Page<br>
++ Feedback Options<br>
+
 __04/08/2024__ : We will start our process of coding in the next stage.<br>
 __04/06/2024__ : We have finished the registration for the Wechat mini program developement platform.<br>
 __04/02/2024__ : We have provided a simple guideline for gantt chart drawing.<br>

@@ -11,12 +11,16 @@ Our group is responsible for the development of __Wechat application__. We will 
 03/05/2024 : Team Building  &#x2611;
 
 ## 🔔 Notice  
-__04/15/2024__ : We have finished the first version of our user interfaces, which include the following pages:<br>
+__04/15/2024__ : We have finished the first version of our user interfaces, which include the following pages or functions:<br>
 + Recommendation Page<br>
 + Stores Page<br>
 + Login Page<br>
 + Item Page<br>
 + Feedback Options<br>
++ Search Bar<br>
++ Map Function<br>
+Here are what we need to add to our program:
++ Interfaces with database<br>
 
 __04/08/2024__ : We will start our process of coding in the next stage.<br>
 __04/06/2024__ : We have finished the registration for the Wechat mini program developement platform.<br>

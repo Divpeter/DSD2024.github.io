@@ -10,7 +10,8 @@ Our group is responsible for the development of __Wechat application__. We will 
 03/08/2024 : Role Selection  &#x2611; <br>
 03/05/2024 : Team Building  &#x2611;
 
-## 🔔 Notice  
+## 🔔 Notice 
+__04/17/2024__ : We have read the interfaces specification and we are improving our program based on it.<br>
 __04/15/2024__ : We have finished the first version of our user interfaces, which include the following pages or functions:<br>
 + Recommendation Page<br>
 + Stores Page<br>

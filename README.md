@@ -4,13 +4,15 @@ This is the project for DSD, 2024 Spring. The task is to develop an Intelligent 
 Our group is responsible for the development of __Wechat application__. We will focus on the customers using Wechat and our group members will work together to do this project well.
 
 ## 📆 Timeline
-04/07/2024 : Coding<br>
+04/29/2024 : Mid-term &#x2611;<br>
+04/07/2024 : Coding &#x2611;<br>
 03/20/2024 : System Design  &#x2611;<br>
 03/11/2024 : Requirements Analysis &#x2611; <br>
 03/08/2024 : Role Selection  &#x2611; <br>
 03/05/2024 : Team Building  &#x2611;
 
 ## 🔔 Notice 
+__04/29/2024__ : We have passed our mid-term check! Iteration one is finished. You can find the materials for mid-term presentation [here]<br>
 __04/17/2024__ : We have read the interfaces specification and we are improving our program based on it.<br>
 __04/15/2024__ : We have finished the first version of our user interfaces, which include the following pages or functions:<br>
 + Recommendation Page<br>
